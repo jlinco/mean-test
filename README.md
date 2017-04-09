@@ -1,6 +1,8 @@
-# ScotchApp
+# MeanTestApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+
+I've set up this project mainly for testing purposes. Any crazy possiblilites with MEAN and any associated libraries/tools will start here.
 
 ## Development server
 
