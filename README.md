@@ -4,6 +4,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 I've set up this project mainly for testing purposes. Any crazy possiblilites with MEAN and any associated libraries/tools will start here.
 
+
+#Initial Setup
+
+After cloning this repo, run `npm install` to install all the node dependencies before proceeding 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
